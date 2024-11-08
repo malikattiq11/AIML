@@ -23,9 +23,440 @@ title: Machine Learning and Data Mining
 [Quantum machine learning](#){: .link}
 
 
-## Problems
+## supervised learning
 
 
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## unsupervised learning
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+##Deep Learning 
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Rule based Learning
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## data mining
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Reinforcement learning
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Probablity
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+## stat
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## linear Algebra
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Calculus
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## other math
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## programming
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Lib/framework
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Data Science 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Optimization
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Databases 
+[Graph](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Imp Papers
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## chemistry 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Bio 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Physics 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## theoretical computer-science 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## other
 [Classification](#){: .link} •
 [Generative modeling](#){: .link} •
 [Regression](#){: .link} •
