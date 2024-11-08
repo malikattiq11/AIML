@@ -456,6 +456,27 @@ title: Machine Learning and Data Mining
 [Ontology learning](#){: .link} •
 [Multimodal learning](#){: .link}
 
+## Software Engg.
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+
 ## other
 [Classification](#){: .link} •
 [Generative modeling](#){: .link} •
