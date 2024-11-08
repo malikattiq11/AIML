@@ -45,6 +45,48 @@ title: Machine Learning and Data Mining
 [Ontology learning](#){: .link} •
 [Multimodal learning](#){: .link}
 
+## classification 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## regression 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
 ## unsupervised learning
 
 [Classification](#){: .link} •
@@ -66,7 +108,69 @@ title: Machine Learning and Data Mining
 [Ontology learning](#){: .link} •
 [Multimodal learning](#){: .link}
 
-##Deep Learning 
+## clustering
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## dimensionality reduction
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Graphical Prob model
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## Deep Learning (ANN)
 [Classification](#){: .link} •
 [Generative modeling](#){: .link} •
 [Regression](#){: .link} •
@@ -435,6 +539,69 @@ title: Machine Learning and Data Mining
 [Ontology learning](#){: .link} •
 [Multimodal learning](#){: .link}
 
+## neuroscience
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## information theory
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
+## graph theory 
+
+[Classification](#){: .link} •
+[Generative modeling](#){: .link} •
+[Regression](#){: .link} •
+[Clustering](#){: .link} •
+[Dimensionality reduction](#){: .link} •
+[Density estimation](#){: .link} •
+[Anomaly detection](#){: .link} •
+[Data cleaning](#){: .link} •
+[AutoML](#){: .link} •
+[Association rules](#){: .link} •
+[Semantic analysis](#){: .link} •
+[Structured prediction](#){: .link} •
+[Feature engineering](#){: .link} •
+[Feature learning](#){: .link} •
+[Learning to rank](#){: .link} •
+[Grammar induction](#){: .link} •
+[Ontology learning](#){: .link} •
+[Multimodal learning](#){: .link}
+
 ## theoretical computer-science 
 
 [Classification](#){: .link} •
@@ -482,7 +649,6 @@ title: Machine Learning and Data Mining
 [Generative modeling](#){: .link} •
 [Regression](#){: .link} •
 [Clustering](#){: .link} •
-[Dimensionality reduction](#){: .link} •
 [Density estimation](#){: .link} •
 [Anomaly detection](#){: .link} •
 [Data cleaning](#){: .link} •
@@ -496,4 +662,6 @@ title: Machine Learning and Data Mining
 [Grammar induction](#){: .link} •
 [Ontology learning](#){: .link} •
 [Multimodal learning](#){: .link}
+
+
 
