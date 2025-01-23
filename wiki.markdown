@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Machine Learning and Data Mining
+title: WIKI
 ---
-
+<span style="color:blue">This wiki is under continuous development *blue* text</span>
 # Machine Learning and Data Mining 
 
 ## Paradigms
