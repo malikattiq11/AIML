@@ -8,7 +8,7 @@ title: WIKI
 ## Paradigms
 
 
-[[Supervised learnin[]()g]] •
+[[Supervised learning[]()]] •
 [Unsupervised learning](#){: .link} •
 [Semi-supervised learning](#){: .link} •
 [Self-supervised learning](#){: .link} •
