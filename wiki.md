@@ -2,13 +2,13 @@
 layout: page
 title: WIKI
 ---
-<span style="color:blue">This wiki is under continuous development *blue* text</span>
+<span style="color:red">This wiki is under continuous development </span>
 # Machine Learning and Data Mining 
 
 ## Paradigms
 
 
-[[Supervised learning]] •
+[[Supervised learnin[]()g]] •
 [Unsupervised learning](#){: .link} •
 [Semi-supervised learning](#){: .link} •
 [Self-supervised learning](#){: .link} •
