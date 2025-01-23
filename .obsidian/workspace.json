@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised learning[]().md",
+                "file": "wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supervised learning[]()"
+              "title": "wiki"
+            }
+          },
+          {
+            "id": "c5af016cb8e10fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wiki"
+            }
+          },
+          {
+            "id": "9eb505e089c53f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wiki"
+            }
+          },
+          {
+            "id": "a50f2ae9984dabe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wiki"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,13 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51d8f14c1394ce40",
+  "active": "a50f2ae9984dabe8",
   "lastOpenFiles": [
+    "Supervised.md",
     "wiki.md",
-    "Supervised learning[]().md",
+    "Supervised learning.md",
     "Supervised learnin[]()g.md",
     "Untitled.canvas",
-    "Supervised learning.md",
     "New file.md",
     "().md",
     "projects.md",
