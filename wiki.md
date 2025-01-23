@@ -26,7 +26,7 @@ title: WIKI
 ## supervised learning
 
 
-[Classification](#){: .link} •
+[Classification](/supervised_learning/classification.md) •
 [Generative modeling](#){: .link} •
 [Regression](#){: .link} •
 [Clustering](#){: .link} •
