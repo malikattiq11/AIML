@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New file.md",
+                "file": "Supervised learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New file"
+              "title": "Supervised learning"
             }
           }
         ]
@@ -164,6 +164,11 @@
   },
   "active": "ae1b50e9528498d4",
   "lastOpenFiles": [
-    "New file.md"
+    "wiki.md",
+    "Supervised learning.md",
+    "about.md",
+    "projects.md",
+    "New file.md",
+    "Untitled.canvas"
   ]
 }
