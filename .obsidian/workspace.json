@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki.md",
+                "file": "_posts/2024-8-23-privacy-blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wiki"
+              "title": "2024-8-23-privacy-blog"
             }
           }
         ],
@@ -111,7 +111,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -235,17 +236,28 @@
   },
   "active": "a50f2ae9984dabe8",
   "lastOpenFiles": [
-    "supervised_learning/classification.md",
+    "_posts/2024-8-23-p>>n.md",
+    "_posts/2024-8-23-network-analysis-guide.md",
+    "_posts/2024-8-23-federated-learning-blog (1).md",
+    "_posts/2024-8-23-federated-learning-blog.md",
+    "_posts/2024-8-23-differential-privacy-blog.md",
+    "_posts/2024-8-23-anomaly-detection-blog.md",
+    "_posts/2024-8-23-advanced-anomaly-detection.md",
+    "_posts/2024-8-21-anomaly-detection-blog (Copy).md",
+    "blog.md",
+    "Supervised learning.md",
     "wiki.md",
+    "Supervised.md",
+    "projects.md",
+    "New file.md",
+    "politics.md",
+    "index.md",
+    "about.md",
+    "supervised_learning/classification.md",
     "Untitled.md",
     "supervised_learning",
-    "Supervised learning.md",
     "().md",
-    "Supervised.md",
     "Untitled.canvas",
-    "Supervised learnin[]()g.md",
-    "New file.md",
-    "projects.md",
-    "about.md"
+    "Supervised learnin[]()g.md"
   ]
 }
