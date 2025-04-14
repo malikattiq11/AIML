@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-8-23-privacy-blog.md",
+                "file": "projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-8-23-privacy-blog"
+              "title": "projects"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "a50f2ae9984dabe8",
   "lastOpenFiles": [
+    "_posts/2024-8-23-privacy-blog.md",
     "_posts/2024-8-23-p>>n.md",
     "_posts/2024-8-23-network-analysis-guide.md",
     "_posts/2024-8-23-federated-learning-blog (1).md",

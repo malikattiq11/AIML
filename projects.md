@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Hello! My name is Attiq, and I'm from the  country of Pakistan. I’m passionate about technology and its ability to transform the world. With a strong background, web development, artificial intelligence, I strive to create impactful solutions and continuously expand my knowledge in this fast-paced industry. 
+Hello! My name is Attiq, and I'm from the  country of Pakistan.  This wiki contains my personal ideas and topic which i like and other random things.
