@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects.md",
+                "file": "wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "projects"
+              "title": "wiki"
             }
           }
         ],
@@ -237,7 +237,10 @@
   "active": "a50f2ae9984dabe8",
   "lastOpenFiles": [
     "Supervised.md",
+    "wiki.md",
+    "Supervised learning.md",
     "projects.md",
+    "New file.md",
     "_posts/2024-8-23-privacy-blog.md",
     "_posts/2024-8-23-p>>n.md",
     "_posts/2024-8-23-network-analysis-guide.md",
@@ -248,9 +251,6 @@
     "_posts/2024-8-23-advanced-anomaly-detection.md",
     "_posts/2024-8-21-anomaly-detection-blog (Copy).md",
     "blog.md",
-    "Supervised learning.md",
-    "wiki.md",
-    "New file.md",
     "politics.md",
     "index.md",
     "about.md",
