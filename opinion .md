@@ -1,10 +1,10 @@
 ---
 layout: page
-title: opinion 
+title: Opinion 
 ---
 <span style="color:red">This wiki is under continuous development </span>
-#  Ideas and Topic of Interest 
+#  
 
 
 
-[Supervised learning](Supervised learning.md) •
+[Political Idelogy](Supervised learning.md) •
