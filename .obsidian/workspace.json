@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distraction_managment.md",
+                "file": "distraction_managment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distraction_managment"
+              "title": "distraction_managment"
             }
           }
         ],
@@ -234,14 +234,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a50f2ae9984dabe8",
+  "active": "11dbea22a3111235",
   "lastOpenFiles": [
+    "distraction_managment.md.md",
+    "distraction_managment.md",
     "opinion .md",
-    "Distraction_managment.md",
+    "projects.md",
+    "istraction_managment.md",
     "wiki.md",
     "Supervised.md",
     "Supervised learning.md",
-    "projects.md",
     "New file.md",
     "_posts/2024-8-23-privacy-blog.md",
     "_posts/2024-8-23-p>>n.md",

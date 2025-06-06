@@ -7,5 +7,5 @@ title: Opinion
 
 
 
-[Distraction Managment ](istraction_managment .md) •
+[Distraction Managment ](distraction_managment .md) •
 
