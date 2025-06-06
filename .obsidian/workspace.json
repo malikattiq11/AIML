@@ -83,6 +83,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "opinion .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "opinion"
+            }
+          },
+          {
+            "id": "1a95bf1bb3d0a1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "distraction_managment.md",
                 "mode": "source",
                 "source": false
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -234,16 +248,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11dbea22a3111235",
+  "active": "1a95bf1bb3d0a1a1",
   "lastOpenFiles": [
-    "distraction_managment.md.md",
-    "distraction_managment.md",
     "opinion .md",
-    "projects.md",
-    "istraction_managment.md",
-    "wiki.md",
-    "Supervised.md",
     "Supervised learning.md",
+    "distraction_managment.md",
+    "Supervised.md",
+    "wiki.md",
+    "projects.md",
+    "index.md",
+    "supervised_learning/classification.md",
+    "blog.md",
+    "about.md",
+    "distraction_managment.md.md",
+    "istraction_managment.md",
     "New file.md",
     "_posts/2024-8-23-privacy-blog.md",
     "_posts/2024-8-23-p>>n.md",
@@ -254,11 +272,7 @@
     "_posts/2024-8-23-anomaly-detection-blog.md",
     "_posts/2024-8-23-advanced-anomaly-detection.md",
     "_posts/2024-8-21-anomaly-detection-blog (Copy).md",
-    "blog.md",
     "politics.md",
-    "index.md",
-    "about.md",
-    "supervised_learning/classification.md",
     "Untitled.md",
     "supervised_learning",
     "().md",
