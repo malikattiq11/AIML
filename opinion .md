@@ -7,4 +7,5 @@ title: Opinion
 
 
 
-[Political Idelogy](Supervised learning.md) •
+[Distraction Managment ](istraction_managment .md) •
+
