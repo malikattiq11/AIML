@@ -111,16 +111,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distraction_managment.md",
+                "file": "opinion .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "distraction_managment"
+              "title": "opinion"
+            }
+          },
+          {
+            "id": "4c8731ff4e8f9d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distraction_managment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distraction_managment"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -262,14 +276,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f892e89c43865e68",
+  "active": "4c8731ff4e8f9d30",
   "lastOpenFiles": [
     "opinion .md",
-    "Supervised.md",
-    "Supervised learning.md",
-    "distraction_managment.md",
-    "projects.md",
+    "Distraction_managment.md",
     "wiki.md",
+    "Supervised learning.md",
+    "Supervised.md",
+    "projects.md",
     "index.md",
     "supervised_learning/classification.md",
     "blog.md",
